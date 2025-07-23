@@ -5,20 +5,20 @@ This project aims to investigate the factors that influence the outcomes of rubb
 
 
 ## Process
-1. **xData Collection**
-Scrape data from websites that host Badminton World Federation (BWF) historical tournament records and players' statistics.
+1. **Data Collection**
+    Scrape data from websites that host Badminton World Federation (BWF) historical tournament records and players' statistics.
 
 2. **Data Wrangling**
-Clean and structure data - including match scores, player ranks, game durations - to prepare for analysis.
+        Clean and structure data - including match scores, player ranks, game durations - to prepare for analysis.
 
 3. **Exploratory Data Analysis (EDA)**
 Explore trends in rubber sets, such as prior set score margins, win-loss ratios by player ranking, etc.
 
 4. **Modelling**
-Build predictive models (e.g. logistic regression, random forest) and evaluate model performance.
+    Build predictive models (e.g. logistic regression, random forest) and evaluate model performance.
 
 5. **Results & Insights**
-Present predictive accuracy and highlight key factors contributing to third-set wins.
+    Present predictive accuracy and highlight key factors contributing to third-set wins.
 
 
 ## Current Status
