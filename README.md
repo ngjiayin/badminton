@@ -1,10 +1,10 @@
-# Predicting Outcomes of Rubber Sets in Professional Badminton Matches
+# Predicting Outcomes of Rubber Sets in Professional Badminton Matches 🏸
 In badminton, matches are played as a best-of-three format, with outcomes decided either in straight sets (2–0) or in a third and final set, commonly known as the "rubber set" (2–1). For the latter, the eventual winner is sometimes difficult to predict until the last few points.
 
 This project aims to investigate the factors that influence the outcomes of rubber sets in professional badminton matches. Using data from BWF-sanctioned tournaments, the goal is explore prediction models and uncover insights into player performance under pressure.
 
 
-## Process
+## 📝 Process
 1. **Data Collection**\
 Scrape data from websites that host Badminton World Federation (BWF) historical tournament records and players' statistics.
 
@@ -21,7 +21,7 @@ Build predictive models (e.g. logistic regression, random forest) and evaluate m
 Present predictive accuracy and highlight key factors contributing to third-set wins.
 
 
-## Current Status
+## ⏳ Current Status
 - [x] Project idea and setup
 - [ ] Web scraping implementation
 - [ ] Initial EDA
@@ -29,7 +29,7 @@ Present predictive accuracy and highlight key factors contributing to third-set 
 - [ ] Results
 
 
-## Tools & Technologies
+## 💻 Tools & Technologies
 - **Python**: pandas, numpy, scikit-learn, matplotlib, seaborn
 - **Web scraping**: BeautifulSoup / Selenium
 - **SQL**: to manage, manipulate and query data
